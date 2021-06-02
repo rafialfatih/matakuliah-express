@@ -1,1 +1,1 @@
-# express-sequelize-coba1
+# Repository ini hanya untuk sebagai percobaan
